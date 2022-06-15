@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/tiatskklaaxnjain?svg=true)](https://ci.appveyor.com/project/Valted-cmd/ai-2-2)
